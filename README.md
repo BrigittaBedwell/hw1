@@ -35,7 +35,7 @@ b. Develop two alternative preliminary process flow diagrams **using Visio** for
 
 ## Problem 5 (2.14) Process Flow Diagram
 
-Consider the following process in which liquid feed material A (normal BP of 110$^\circ$C) is reacted with gaseous feed material G to produce main product C and by-products R and S via the following reactions:
+Consider the following process in which liquid feed material A (normal BP of 110C) is reacted with gaseous feed material G to produce main product C and by-products R and S via the following reactions:
 
 <img src="https://latex.codecogs.com/gif.latex?\\*&space;A&plus;G&space;\rightarrow&space;C&plus;S&space;\\*&space;G&plus;C&space;\rightarrow&space;R" title="\\* A+G \rightarrow C+S \\* G+C \rightarrow R" />
 
